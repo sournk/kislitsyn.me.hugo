@@ -2,7 +2,7 @@
 title: Enterprise
 toc: false
 ---
-
+123
 I have 15+ years of experience driving digital transformation and enhancing supply chains for major food-FMCG companies. I'm an expert at solving complex challenges in uncertain environments.
 
 My projects have won awards like *SAP Value Awards* <sup>[1][1]</sup> <sup>[2][2]</sup> and *Global CIO* <sup>[3][3]</sup>. I've had a few projects up for grabs at some of the main industry events like [Logimat](https://www.logimat-messe.de/en), [CeMAT](https://www.cemat-russia.ru/) and [SAP Forum](https://sap.com). They've been picked as the best in the business.

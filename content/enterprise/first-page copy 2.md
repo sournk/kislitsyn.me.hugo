@@ -1,5 +1,5 @@
 ---
-title: Page  12
+title: Page 
 type: docs
 prev: /
 next: docs/folder/
