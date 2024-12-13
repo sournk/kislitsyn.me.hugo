@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Denis Kislitsyn
 
 # import hextra as module
 module:
@@ -18,34 +18,42 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Enterprise
+      pageRef: /enterprise
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Freelance
+      pageRef: /freelance
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: LinkedIn
       weight: 3
-    - name: Search
-      weight: 4
+      url: "https://www.linkedin.com/in/deniskislitsyn"
       params:
-        type: search
+        icon: linkedin
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 4
+      url: "https://github.com/sournk"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+    - name: Telegram
+      weight: 5
+      url: "https://t.me/sournkz"
       params:
-        icon: x-twitter
-
+        icon: telegram-bw
+    - name: E-Mail
+      weight: 6
+      url: "mailto:denis@kislitsyn.me"
+      params:
+        icon: mail
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo_dk.svg
+      dark: images/logo_dk.svg
+      link: /
+      width: 40
+      height: 20    
 
   footer:
     displayCopyright: false

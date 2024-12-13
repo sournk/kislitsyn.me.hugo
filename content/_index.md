@@ -1,17 +1,15 @@
 ---
-title: My Site
+title: 
 toc: false
 ---
+# Hey, I'm Denis
 
-This is the landing page.
+I’ve been turning complex ideas into simple solutions for 15+ years 🖥️ 🏭 🤖 📊
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="enterprise" title="Enterprise" icon="user-circle" >}}
+  {{< card link="freelance" title="Freelance" icon="trending-up" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
