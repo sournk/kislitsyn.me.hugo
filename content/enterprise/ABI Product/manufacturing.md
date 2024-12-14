@@ -6,11 +6,11 @@ next: docs/folder/
 weight: 1
 ---
 
-As the *Vice Head of Development* I led two key project programs.
+As *Vice Head of Development* I led two key project programs.
 
 {{< cards >}}
-  {{< card link="https://zebra-tv.ru/novosti/biznes/generalnyy-direktor-kompanii-abi-tatyana-trifonova-ob-itogakh-2022-goda-i-planakh-na-2023-god-vremya/?erid=LdtCKH7Dw" title="Meat Processing Site" image="https://zebra-tv.ru/upload/medialibrary/c92/qn5u9y0eolu88fv5xpylrl9sac1264on/foto_ABI_constructing11.jpg" subtitle="Press release 14.03.23" >}}
-  {{< card link="https://zebra-tv.ru/novosti/biznes/abi-stroitelstvo-novykh-zavodov-idet-vysokimi-tempami/" title="Frozen Food Site" image="https://zebra-tv.ru/upload/medialibrary/be9/farq9zgmh0iq3qpoqfysvbayea01lxwa/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9C%D0%93%201.jpg" subtitle="Press release 24.11.22" >}}
+  {{< card link="https://zebra-tv.ru/novosti/biznes/generalnyy-direktor-kompanii-abi-tatyana-trifonova-ob-itogakh-2022-goda-i-planakh-na-2023-god-vremya/?erid=LdtCKH7Dw" title="#1: Meat Processing Site" image="/images/man_sk5.png" subtitle="Zebra TV Release | 14.03.23">}}
+  {{< card link="https://zebra-tv.ru/novosti/biznes/abi-stroitelstvo-novykh-zavodov-idet-vysokimi-tempami/" title="#2: Frozen Food Site" image="/images/man_mg.png" subtitle="Zebra TV Release | 24.11.22" >}}
 {{< /cards >}}
 
 {{% steps %}}
