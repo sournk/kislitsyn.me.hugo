@@ -18,11 +18,11 @@ markup:
 
 menu:
   main:
-    - name: Enterprise
+    - name: Enterprise Expertise
       pageRef: /enterprise
       weight: 1
-    - name: Freelance
-      pageRef: /freelance
+    - name: Personal Projects
+      pageRef: /personal
       weight: 2
     - name: LinkedIn
       weight: 3
@@ -49,8 +49,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo_dk.svg
-      dark: images/logo_dk.svg
+      path: images/logo_dk_light.svg
+      dark: images/logo_dk_dark.svg
       link: /
       width: 40
       height: 20    
