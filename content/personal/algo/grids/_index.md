@@ -1,8 +1,8 @@
 ---
 title: Grids
 type: docs
-prev: 
-next: 
+prev: algo
+next: baza
 sidebar:
   open: false
 draft: false

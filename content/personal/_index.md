@@ -1,7 +1,10 @@
 ---
 title: Personal Projects
-next: first-page
-toc: false
+type: docs
+next: algo
+prev:
+toc: true
+publishDate: 2023-08-21
 ---
 
 I’ve solid hand-on experience in developing solutions using:

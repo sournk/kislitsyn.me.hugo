@@ -4,6 +4,7 @@ type: docs
 prev: 
 next: 
 weight: 2
+publishDate: 2023-08-21
 ---
 
 ## Аннотация

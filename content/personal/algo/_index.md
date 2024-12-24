@@ -1,14 +1,17 @@
 ---
 title: Algorithmic Trading
 type: docs
-prev: 
-next: 
+prev: personal
+next: grids
 sidebar:
   open: true
 draft: false
+publishDate: 2023-08-21
 ---
 
 This page contains trading strategies I’ve worked on and my articles about algorithmic trading. Also there're my open-source development tools here.
+
+## External Links
 
 A lot of materials are published on thematic websites, and all current ones are shared on the Telegram channel.
 
@@ -18,8 +21,9 @@ A lot of materials are published on thematic websites, and all current ones are 
   {{< card link="https://medium.com/@sournk" title="Medium" subtitle="My Medium articles" icon="medium-dk">}}
 {{< /cards >}}
 
-## Stratagy types
-I have developed a wide variety advisor’s strategies based on:
+## Implemented Strategies Types 
+
+I have developed a wide range advisor’s strategies based on:
 
 {{< cards >}}
   {{< card link="" title="1. Standard and custom indicators" subtitle="MA, ADX, SAR, Bollinger Bands, ATR, MACD, RSI, Fractals, Alligator, ZigZag and others" icon="dashboard-dk" tagType="info">}}
@@ -28,7 +32,7 @@ I have developed a wide variety advisor’s strategies based on:
   {{< card link="" title="4. Range-bound and breakouts" subtitle="Breakout of Support and Resistance" icon="range-dk">}}
   {{< card link="" title="5. Level and zone trading" subtitle="Different strategies for defining levels and zones" icon="levels-dk">}}
   {{< card link="" title="6. Arbitrage" subtitle="Spatial, Statistical, Triangular, Futures and Spot Arbitrage, Crypto" icon="scales-dk">}}
-  {{< card link="" title="7. Grid algorithms" subtitle="Various versions of grid algorithms including Martingale, Anti-Martingale, Pyramiding and others" icon="view-grid">}}
+  {{< card link="grids" title="7. Grid algorithms" subtitle="Various versions of grid algorithms including Martingale, Anti-Martingale, Pyramiding and others" icon="view-grid">}}
   {{< card link="" title="8. Divergence" subtitle="Divergences between symbol and indicators, as well as divergences between directly and inversely correlated symbols" icon="divergence-dk">}}
   {{< card link="" title="9. Price Action, SMC/ICT" subtitle="Custom modifications of Price Action and Smart Money Concept components: Structure, FVG, OB, BB, OTE and others" icon="ict-dk">}}
   {{< card link="" title="10. News-based" subtitle="Strategies based on fundamental analysis of news or traps of extreme movements" icon="newspaper">}}

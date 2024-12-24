@@ -7,6 +7,7 @@ sidebar:
   open: false
 draft: false
 weight: 1
+publishDate: 2023-08-21
 ---
 
 Подробный разбор торговой стратегии, бэктест, анализ причин сливов и пути улучшения стратегии популярного коммерческого бота [Eve](https://baza2020.com/torgovyj-sovetnik-eve/) от [Baza](https://baza2020.com).
