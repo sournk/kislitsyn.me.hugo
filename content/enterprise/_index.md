@@ -22,7 +22,6 @@ Or just text me [{{< icon "telegram-bw" >}} Telegram](https://t.me/sournkz).
     {{< card link="monro" title="Monro" image="/images/monro_logo.png" subtitle="Footwear Retail Brand" >}}            
 {{< /cards >}}
 
-
 [1]: <https://sapland.ru/p-events/news/sap-value-award-2017-nagrazhdeni-samie-ephphektivnie-klientskie-proekti.html> "SAP Value Awawrd 2017: SAP IBP and SAP APO"
 [2]: <https://sapland.ru/p-events/news/sap-value-award-experti-vibrali-luchshie-innovatsionnie-biznes-proekti.html> "SAP Value Awawrd 2019: SAP S/4 HANA EWM"
 [3]: <https://www.cnews.ru/news/line/2018-05-24_abi_product_realizuet_standarty_upravleniya_s> "SAP Value Awawrd 2019: SAP S/4 HANA EWM"
