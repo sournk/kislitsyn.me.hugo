@@ -1,15 +1,16 @@
 ---
 title: Personal Projects
 next: first-page
+toc: false
 ---
 
 I’ve solid hand-on experience in developing solutions using:
 - **Python**: FastAPI, Flask, NumPy, Pandas, Jupiter, TensorFlow, Keras, Selenium
 - **JavaScript**: Vanilla JS and Node.JS
-- **ERP build-ins**: ABAP, X++, 1C/1C++ for SAP, MS DAX and 1C platforms
+- **ERP Build-ins**: ABAP, X++, 1C/1C++ for SAP, MS DAX and 1C platforms
 - **Scripting**: Lua, DAX, PowerQuery and M
 - **MQL**: Indicators and Expert Advisers for MetaTrader platform
-- **Old school**: C, C++ and ASM, Pascal + Delphi and Basic
+- **Old School**: C, C++ and ASM, Pascal+Delphi and Basic
 
 I'm involved in two main areas of software development.
 

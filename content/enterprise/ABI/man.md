@@ -1,8 +1,8 @@
 ---
 title: Manufacturing Sites
 type: docs
-prev: /
-next: docs/folder/
+prev: abi
+next: dc
 weight: 1
 ---
 

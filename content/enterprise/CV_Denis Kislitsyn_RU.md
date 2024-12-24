@@ -1,9 +1,10 @@
 ---
-title: Full CV
+title: Full CV RU
 type: docs
 prev: 06_Monro_2002_2004
 next: enterprise
 weight: 10
+draft: false
 ---
 # Денис Кислицын
 **Профессионально делаю сложные системы проще и надежнее более 20 лет**
