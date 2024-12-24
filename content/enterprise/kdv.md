@@ -6,7 +6,7 @@ next: kpk
 weight: 4
 ---
 {{< cards >}}
-    {{< card link="https://kdv.ru" title="KDV" image="/images/kdv_logo.svg" subtitle="Largest snack producer in Russia" >}}
+    {{< card link="https://kdv-group.com" title="KDV" image="/images/kdv_logo.svg" subtitle="Largest snack producer in Russia" >}}
     {{< card link="https://рпигруп.рф" title="RPI Group" image="/images/rpi_logo.png" subtitle="Agro-Industrial Holding" >}}    
 {{< /cards >}}
 

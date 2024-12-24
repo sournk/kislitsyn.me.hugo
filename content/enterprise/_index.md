@@ -15,11 +15,11 @@ Or just text me [{{< icon "telegram-bw" >}} Telegram](https://t.me/sournkz).
 
 ## Professional Path
 {{< cards >}}
-    {{< card link="abi" title="ABI" image="/images/abi_logo.svg" subtitle="Largest meat-processing company in Russia" >}}
-    {{< card link="kdv" title="KDV" image="/images/kdv_logo.svg" subtitle="Largest snack producer in Russia" >}}  
-    {{< card link="kdv" title="RPI Group" image="/images/rpi_logo.png" subtitle="Agro-Industrial Holding" >}}    
-    {{< card link="kpk" title="KPK" image="/images/kpk_logo.png" subtitle="Full-cycle pork and beef Agribusiness" >}}    
-    {{< card link="monro" title="Monro" image="/images/monro_logo.png" subtitle="Footwear Retail Brand" >}}            
+    {{< card link="/enterprise/abi" title="ABI" image="/images/abi_logo.svg" subtitle="Largest meat-processing company in Russia" >}}
+    {{< card link="/enterprise/kdv" title="KDV" image="/images/kdv_logo.svg" subtitle="Largest snack producer in Russia" >}}  
+    {{< card link="/enterprise/kdv" title="RPI Group" image="/images/rpi_logo.png" subtitle="Agro-Industrial Holding" >}}    
+    {{< card link="/enterprise/kpk" title="KPK" image="/images/kpk_logo.png" subtitle="Full-cycle pork and beef Agribusiness" >}}    
+    {{< card link="/enterprise/monro" title="Monro" image="/images/monro_logo.png" subtitle="Footwear Retail Brand" >}}            
 {{< /cards >}}
 
 [1]: <https://sapland.ru/p-events/news/sap-value-award-2017-nagrazhdeni-samie-ephphektivnie-klientskie-proekti.html> "SAP Value Awawrd 2017: SAP IBP and SAP APO"
