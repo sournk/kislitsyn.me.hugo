@@ -44,6 +44,10 @@ menu:
       url: "mailto:denis@kislitsyn.me"
       params:
         icon: mail
+    - name: Search
+      weight: 7
+      params:
+        type: search        
 params:
   navbar:
     displayTitle: true
