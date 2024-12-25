@@ -1,8 +1,7 @@
 ---
-title: 
+title: Hey, I'm Denis
 toc: false
 ---
-# Hey, I'm Denis
 
 <style>
 table {
@@ -41,10 +40,20 @@ span.slide::after {
 }
 </style>
 
+![](/images/main.svg)
+
+<h4> I turn complex ideas into simple solutions for: 
+  <span class="slide">— Food-FMCG and Production Sites 🏭 🏗️ 🥩 🍪 </span>
+  <span class="slide">— Transport and Warehouse Logistics 🚛 🚚 🛫 ⛴️ </span>
+  <span class="slide">— Retail 🛒 🏪 🛍️ </span>
+  <span class="slide">— In-house and Outsource IT Teams 🧑‍💻👩🏼‍💻😀</span>
+  <span class="slide">— Software development 🖥️ 📱 💻 </span>
+  <span class="slide">— Algorithmic trading 📊 💰 📈</span>
+</h4>
 
 
 <!-- <img style="float: left" src="/images/me-2-200.png"> -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="/images/me-2-200.png">
@@ -60,7 +69,7 @@ span.slide::after {
       </h5>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- {{< cards >}}
   {{< card link="https://kislitsyn.me" title="" image="/images/me.png" subtitle="" >}}
@@ -69,7 +78,7 @@ span.slide::after {
 
 <br clear="left"/>
 
-## Explore
+## Explore Details
 
 {{< cards >}}
   {{< card link="enterprise" title="Enterprise Expertise" icon="user-group" >}}
