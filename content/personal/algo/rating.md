@@ -14,6 +14,7 @@ Here is a list of the projects I have worked on. I have put each project into di
 
 | # | Name | Type | Tags |
 |---|------|------|------|
+| 37 | **Anchor Zone Setup** <br> The strategy based on "Anchor Zone Setup" of L.A. Little book "Trend Qualification and Trading" | `Private` | [`Pattern`](/personal/algo/pattern) [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
 | 36 | **Pattern And Divergence Detector** <br> The bot trades a custom pattern and divergence or convergence of price and indicator | `Private` | [`Divergence`](/personal/algo/divergence) [`Pattern`](/personal/algo/pattern) [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range)  [`Indicator`](/personal/algo/indicator) |
 | 35 | **Three Orders Zone from Fibo** <br> The bot trades rebounds from Fibo levels of support and resistance zones | `Private` | [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) [`Indicator`](/personal/algo/indicator)  [`Fibo`](/personal/algo/fibo)  |
 | 34 | **VWAP Crossing** <br>The bot trades from VWAP crossing | `Public` | [`Indicator`](/personal/algo/indicator) |
@@ -23,7 +24,7 @@ Here is a list of the projects I have worked on. I have put each project into di
 | 30 | **Fibo Two Orders** <br>The trading strategy of the bot is Fibo retracement after BOS | `Public` | [`PA/SMC`](/personal/algo/pasmc)  [`Fibo`](/personal/algo/fibo)  [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) [`GUI`](/personal/algo/gui) |
 | 29 | **News Breakout** <br>The trading strategy of the bot is a catching breakout at the moment of a significant news release | `Private` | [`News`](/personal/algo/news)  [`HTF`](/personal/algo/htf)  |
 | 28 | **News Flow** <br>The trading strategy of the bot is a breakout at the moment of a significant news release in the direction of overall economic expectations, whether growth or decline | `Private` | [`News`](/personal/algo/news) |
-| 27 | **PALL-E** <br>The bot is the result of the evolution of the grid trading system, which was specially created in 2019 for XAUUSD | `Private` | [`Grid`](/personal/algo/grid) [`Indicator`](/personal/algo/indicator)  |
+| 27 | [**PALL-E**](/personal/algo/grids/006_meet_palle) <br>The bot is the result of the evolution of the grid trading system, which was specially created in 2019 for XAUUSD | `Private` | [`Grid`](/personal/algo/grid) [`Indicator`](/personal/algo/indicator)  |
 | 26 | **Daily Inside Bar Setup** <br>The bot for DIBS strategy | `Private` | [`Pattern`](/personal/algo/pattern) |
 | 25 | **Time Price Opportunity** <br>The bot for DIBS strategy | `Private` | [`Indicator`](/personal/algo/indicator)  [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
 | 24 | **Zigzager** <br>The bot trades from the levels of the standard ZigZag indicator | `Private` | [`Indicator`](/personal/algo/indicator)  [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
@@ -49,4 +50,4 @@ Here is a list of the projects I have worked on. I have put each project into di
 | 4 | **Springfield Three Grids** <br>The bot simultaneously manages 3 grids on a single instrument with different parameters | `Private` | [`Grid`](/personal/algo/grid) |
 | 3 | **Three Orders Zone** <br>The bot trades rebounds from support and resistance zones | `Private` | [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) [`Indicator`](/personal/algo/indicator) |
 | 2 | **Tip Top AI** <br>The bot uses AI generated strategy to detect entry point by Tail length algorithm | `Public` | [`Pattern`](/personal/algo/pattern) [`ML&AI`](/personal/algo/mlai) |
-| 1 | **Eve On Haloperidol** <br>The trading strategy of Baza's Eve grid bot has been improved with protection against unidirectional price movement that won't budge | `Public` | [`Grid`](/personal/algo/grid)  [`Indicator`](/personal/algo/indicator) |
+| 1 | [**Eve On Haloperidol**](/personal/algo/grids/baza/005_params_for_eve_on_haloperidol) <br>The trading strategy of Baza's Eve grid bot has been improved with protection against unidirectional price movement that won't budge | `Public` | [`Grid`](/personal/algo/grid)  [`Indicator`](/personal/algo/indicator) |
