@@ -10,7 +10,7 @@ publishDate: 2024-12-24
 weight: 1
 ---
 
-Here is a list of the projects I have worked on. I have put each project into different categories based on the types of trading it uses.
+Here is a list of the projects I have worked on. I have put each project into different categories based on the types of trading it uses. There is a description available for some `Public` projects, which may be of interest.
 
 | # | Name | Type | Tags |
 |---|------|------|------|
