@@ -8,7 +8,7 @@ sidebar:
 draft: false
 publishDate: 2025-03-12
 ---
-Торговый советник для MetaTrader 5, который торгует с применением кастомных индикаторов от FSSI
+Торговый советник для MetaTrader 5, который торгует с применением кастомных индикаторов от FXSSI
 
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
 * Version: 2.00
