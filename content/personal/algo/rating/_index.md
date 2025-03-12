@@ -14,6 +14,13 @@ Here is a list of the projects I have worked on. I have put each project into di
 
 | # | Name | Type | Tags |
 |---|------|------|------|
+| 47 | **Three Black Crows & Three White Soldiers** <br> Classic pattern strategy  | `Private` | [`Pattern`](/personal/algo/pattern) |
+| 46 | **[DV-FSSI](/personal/algo/rating/047-dv-fssi)** <br> The multicurrency EA uses [fxssi.com](https://fxssi.com) indicators to trade breakouts of correlated crowd's SL clusters  | `Public` | [`Zone`](/personal/algo/zone) [`Indicator`](/personal/algo/indicator) |
+| 45 | **DC1440min** <br> Trend trading strategy for futures market based on levels detection | `Private` | [`Trend`](/personal/algo/trend) [`Zone`](/personal/algo/zone) |
+| 44 | **CL60min** <br> Trend trading strategy for futures market based on ADX, MACD, MA indicators and range breakout | `Private` | [`Indicator`](/personal/algo/indicator) [`Trend`](/personal/algo/trend) [`Range`](/personal/algo/range) |
+| 43 | **GS480min** <br> Trend trading strategy for futures market based on ADX indicator | `Private` | [`Indicator`](/personal/algo/indicator) [`Trend`](/personal/algo/trend) |
+| 42 | **Silaev - HI** <br> by Alexander Silaev the author of "Money without fools" book | `Private` | [`Pattern`](/personal/algo/pattern) [`Trend`](/personal/algo/trend) |
+| 41 | **Silaev - BR** <br> by Alexander Silaev the author of "Money without fools" book | `Private` | [`Pattern`](/personal/algo/pattern) [`Trend`](/personal/algo/trend) |
 | 40 | **Silaev - UN** <br> by Alexander Silaev the author of "Money without fools" book | `Private` | [`Pattern`](/personal/algo/pattern) [`Trend`](/personal/algo/trend) |
 | 39 | **Silaev - PR** <br> by Alexander Silaev the author of "Money without fools" book | `Private` | [`Pattern`](/personal/algo/pattern) [`Trend`](/personal/algo/trend) |
 | 38 | **[Fractal Fibo FVG](/personal/algo/rating/038-fff)** <br> The trading indicator for MetaTrader 5 builds FVG inside Fibo by Fractals | `Public` | [`Pattern`](/personal/algo/pattern) [`Fibo`](/personal/algo/fibo) [`Zone`](/personal/algo/zone) |
@@ -29,14 +36,14 @@ Here is a list of the projects I have worked on. I have put each project into di
 | 28 | **News Flow** <br>The trading strategy of the bot is a breakout at the moment of a significant news release in the direction of overall economic expectations, whether growth or decline | `Private` | [`News`](/personal/algo/news) |
 | 27 | [**PALL-E**](/personal/algo/grids/006_meet_palle) <br>The bot is the result of the evolution of the grid trading system, which was specially created in 2019 for XAUUSD | `Public` | [`Grid`](/personal/algo/grid) [`Indicator`](/personal/algo/indicator)  |
 | 26 | **Daily Inside Bar Setup** <br>The bot for DIBS strategy | `Private` | [`Pattern`](/personal/algo/pattern) |
-| 25 | **Time Price Opportunity** <br>The bot for DIBS strategy | `Private` | [`Indicator`](/personal/algo/indicator)  [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
+| 25 | **Time Price Opportunity** <br>The bot for DIBS strategy | `Private` | [`Indicator`](/personal/algo/indicator) [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
 | 24 | **Zigzager** <br>The bot trades from the levels of the standard ZigZag indicator | `Private` | [`Indicator`](/personal/algo/indicator)  [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
 | 23 | **Crypto Tele Broker** <br>The Telegram bot executes transactions on cryptocurrency exchanges based on users' messages | `Private` | [`Tool`](/personal/algo/tool)  [`Crypto`](/personal/algo/crypto) |
 | 22 | **Trading Time Indicator** <br>The indicator draws the periods available for trading on the chart | `Private` | [`Tool`](/personal/algo/tool)  [`Indicator`](/personal/algo/indicator) [`GUI`](/personal/algo/gui) |
 | 21 | **Stat Script** <br>The script generates a report on the history of EA trades, filtering them by comment part or magic number | `Private` | [`Tool`](/personal/algo/tool) |
 | 20 | **Breakout Profit** <br>The bot trades breakouts or bounces from daily lows/highs | `Private` | [`Indicator`](/personal/algo/indicator) [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) |
 | 19 | **ATR Rages Grid** <br>The bot trades narrowing ATR ranges | `Private` | [`Indicator`](/personal/algo/indicator) [`Zone`](/personal/algo/zone) [`Range`](/personal/algo/range) [`Grid`](/personal/algo/grid) |
-| 18 | **[Pattern 34 Detector](/personal/algo/rating/018-Pattern34)** <br>The bot detects custom "Pattern 34" and trades from it on FX or BO | `Public` | [`Pattern`](/personal/algo/pattern) |
+| 18 | **[Pattern 34 Detector](/personal/algo/rating/018-pattern34)** <br>The bot detects custom "Pattern 34" and trades from it on FX or BO | `Public` | [`Pattern`](/personal/algo/pattern) |
 | 17 | **Volume Candle** <br>The bot detects and trades custom "Volume Candlestick" pattern | `Private` | [`Pattern`](/personal/algo/pattern) |
 | 16 | **AutoLocker** <br>The bot locks positions when drawdown is reached | `Public` | [`MoneyMan`](/personal/algo/moneyman) |
 | 15 | **Ethereum ADX trading** <br>The strategy for ETHUSDT with entering and exiting the position according to ADX | `Private` | [`Indicator`](/personal/algo/indicator)  [`Crypto`](/personal/algo/crypto)  |
