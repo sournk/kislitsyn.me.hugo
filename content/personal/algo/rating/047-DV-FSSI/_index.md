@@ -13,7 +13,7 @@ publishDate: 2025-03-12
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
 * Version: 2.00
 
-![Layout](um001.%20layout.png)
+![Layout](UM001.%20Layout.png)
 
 ## Что нового?
 ```

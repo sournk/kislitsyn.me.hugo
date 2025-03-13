@@ -1,6 +1,9 @@
 # Hugo configuration file
 title: Denis Kislitsyn
 
+permalinks:
+  section: "/:section/"
+
 # import hextra as module
 module:
   imports:
