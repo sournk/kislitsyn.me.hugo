@@ -24,7 +24,7 @@ menu:
     - name: Enterprise Expertise
       pageRef: /enterprise
       weight: 1
-    - name: Personal Projects
+    - name: Freelance Projects
       pageRef: /personal
       weight: 2
     - name: LinkedIn

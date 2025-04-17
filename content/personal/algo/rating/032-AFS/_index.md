@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-11-30
+weight: 32
 ---
 
 Торговый советник для MetaTrader 5, которые торгует отскоки от фильтрованных уровней фракталов

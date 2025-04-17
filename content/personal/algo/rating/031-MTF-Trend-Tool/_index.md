@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-11-22
+weight: 31
 ---
 The Expert Adviser for MetaTrader 5 with Symbol analysis tools
 

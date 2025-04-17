@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-11-21
+weight: 30
 ---
 
 The Expert Adviser for MetaTrader 5. The trading strategy of the bot is Fibo retracement after BOS or CHoCH using two pending orders.

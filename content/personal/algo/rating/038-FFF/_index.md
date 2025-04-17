@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-12-29
+weight: 38
 ---
 The trading indicator for MetaTrader 5 builds FVG inside Fibo by Fractals
 

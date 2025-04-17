@@ -14,6 +14,19 @@ Here is a list of the projects I have worked on. I have put each project into di
 
 | # | Name | Type | Tags |
 |---|------|------|------|
+| 60 | **[MAChannel-MT5-Ind](060-machannel-mt5-ind/)** <br> Expert Advisors often use a channel around standard MAs. The indicator builds such a channel and has three buffers: MA, MA Channel Top and MA Channel Bottom <br> Free download [MQL5 Market](https://www.mql5.com/en/market/product/135784) | `Public` | [`Trend`](/personal/algo/trend) |
+| 59 | **[ChaikinMoneyFlow-MT5-Ind](059-chaikinmoneyflow-mt5-ind/)** <br> The Chaikin Money Flow (CMF) is an indicator created by Marc Chaikin in the 1980s to monitor the accumulation and distribution of a stock over a specified period <br> Free download [MQL5 Market](https://www.mql5.com/ru/market/product/135679) | `Public` | [`Volume`](/personal/algo/volume) |
+| 58 | **DS-SPTR** <br> The bot trades according to a private trend detection strategy | `Private` | [`Trend`](/personal/algo/trend) |
+| 57 | **DS-SPCTR** <br> The bot trades according to a private countertrend detection strategy | `Private` | [`Trend`](/personal/algo/trend) |
+| 56 | **DS-LunaticDay** <br> The bot trades according to a private strategy based on the identification of trend days | `Private` | [`Trend`](/personal/algo/trend) |
+| 55 | **DS-SP1IO** <br> The bot trades on a private strategy of bounces from envelope boundaries   | `Private` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) [`Range`](/personal/algo/range) |
+| 54 | **DS-SPNIB-MT5-Bot** <br> The bot trades according to a private strategy of searching and breaking through trading channels   | `Private` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) [`Range`](/personal/algo/range) |
+| 53 | **SBSystem** <br> The bot trades using a private strategy based on a combination of indicators | `Private` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) |
+| 52 | **[AT-ZigZagADX](052-at-zigzagadx/)** <br> The bot trades in the direction of the last ZigZag edge as long as ADX, WPR, and TEMA are confirmed | `Public` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) |
+| 51 | **[FridayGoldRush-MT5-Bot](051-fridaygoldrush-mt5-bot/)** <br> Bot for MetaTrader 5 trades on a combination of ZigZig and WPR indicators and candlestick patterns <br> Free download [MQL5 Market](https://www.mql5.com/en/market/product/131729) | `Public` | [`Trend`](/personal/algo/trend) |
+| 50 | **[AT-ZigZagColorBars](050-at-zigzagcolorbars/)** <br> Bot for MetaTrader 5 trades on a combination of ZigZig and WPR indicators and candlestick patterns | `Public` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) |
+| 49 | **[NYMB-MGridAssistant-MT5-Bot](049-nymb-mgridassistant-mt5-bot/)** <br> A bot assistant works with a manual trade, automatically averaging it with two Martingale grids | `Private` | [`Tool`](/personal/algo/tool) [`Grid`](/personal/algo/grid) [`GUI`](/personal/algo/gui) |
+| 48 | **Order Book Scanner** <br> This tool lets you keep a order book history in SQLite and then look at it later | `Private` | [`Tool`](/personal/algo/tool) |
 | 47 | **Three Black Crows & Three White Soldiers** <br> Classic pattern strategy  | `Private` | [`Pattern`](/personal/algo/pattern) |
 | 46 | **[DV-FSSI](047-dv-fssi/)** <br> The multicurrency EA uses [fxssi.com](https://fxssi.com) indicators to trade breakouts of correlated crowd's SL clusters  | `Public` | [`Zone`](/personal/algo/zone) [`Indicator`](/personal/algo/indicator) |
 | 45 | **DC1440min** <br> Trend trading strategy for futures market based on levels detection | `Private` | [`Trend`](/personal/algo/trend) [`Zone`](/personal/algo/zone) |

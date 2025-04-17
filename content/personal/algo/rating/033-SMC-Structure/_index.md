@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-12-10
+weight: 33
 ---
 Testing the structure break trade hypothesis by SMC
 

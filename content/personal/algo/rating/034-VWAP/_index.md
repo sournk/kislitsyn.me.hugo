@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2024-12-12
+weight: 34
 ---
 
 Торговая система для MetaTrader 5, которая использует торговлю от VWAP

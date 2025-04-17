@@ -7,6 +7,7 @@ sidebar:
   open: true
 draft: false
 publishDate: 2025-03-12
+weight: 47
 ---
 Торговый советник для MetaTrader 5, который торгует с применением кастомных индикаторов от FXSSI
 
