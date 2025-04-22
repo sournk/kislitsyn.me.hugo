@@ -61,7 +61,7 @@ span.slide::after {
 <div class="slide-container">
   <span class="slide">— Food-FMCG and Production Sites </span>
   <span class="slide">— Transport and Warehouse Logistics </span>
-  <span class="slide">— Retail </span>
+  <span class="slide">— Retail and E-Commerce </span>
   <span class="slide">— In-house and Outsource IT Teams </span>
   <span class="slide">— Software development </span>
   <span class="slide">— Algorithmic trading </span>

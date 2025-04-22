@@ -1,8 +1,8 @@
 ---
 title: Grids
 type: docs
-prev: algo
-next: baza
+prev: rating
+next: 006_meet_palle
 sidebar:
   open: false
 draft: false

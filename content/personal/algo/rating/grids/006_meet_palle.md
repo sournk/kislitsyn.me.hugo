@@ -11,7 +11,7 @@ publishDate: 2023-10-18
 
 ![Reinforced Grid Bot](/images/personal/050/050.%20palle_logo_200x200.svg)
 
-In 2023, many robots were draining deposits on gold, even on conservative settings. I did [research on the reasons for the drains]({{< ref "/personal/algo/rating/grids/baza/003_eve_siyah_carsamba" >}}) on one of the popular trading bots. At that time I came to the following conclusions:
+In 2023, many robots were draining deposits on gold, even on conservative settings. I did [research on the reasons for the drains]({{< ref "/personal/algo/research/baza/003_eve_siyah_carsamba" >}}) on one of the popular trading bots. At that time I came to the following conclusions:
 
 {{< callout type="error" >}}
 **Main Conclusion:** Grid robots with Martingale averaging and no protection against deposit drain will lose it. 
