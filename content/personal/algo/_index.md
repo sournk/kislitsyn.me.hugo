@@ -21,6 +21,7 @@ Here is a list of the projects I have worked on. I have put each project into di
 
 | # | Name | Type | Tags |
 |---|------|------|------|
+| 62 | **[SessionMA-MT5-Ind](/personal/algo/indicators/062-sessionma-mt5-ind/)** <br> SessionMA calculates the MA only on bars that fall within a specified session time window <br> Free download [MQL5 Market](https://www.mql5.com/ru/market/product/138136) | `Public` | [`Trend`](/personal/algo/trend) |
 | 61 | **[ClassicRenkoOnTick-MT5-Ind](/personal/algo/indicators/061-classicrenkoontick-mt5-ind/)** <br> This MT5 indicator provides real-time updates of classic Renko charts focused on price movement, filtering out noise and highlighting trends <br> Free download [MQL5 Market](https://www.mql5.com/ru/market/product/137132) | `Public` | [`Trend`](/personal/algo/trend) |
 | 60 | **[MAChannel-MT5-Ind](/personal/algo/indicators/060-machannel-mt5-ind/)** <br> Expert Advisors often use a channel around standard MAs. The indicator builds such a channel and has three buffers: MA, MA Channel Top and MA Channel Bottom <br> Free download [MQL5 Market](https://www.mql5.com/en/market/product/135784) | `Public` | [`Trend`](/personal/algo/trend) |
 | 59 | **[ChaikinMoneyFlow-MT5-Ind](/personal/algo/indicators/059-chaikinmoneyflow-mt5-ind/)** <br> The Chaikin Money Flow (CMF) is an indicator created by Marc Chaikin in the 1980s to monitor the accumulation and distribution of a stock over a specified period <br> Free download [MQL5 Market](https://www.mql5.com/ru/market/product/135679) | `Public` | [`Volume`](/personal/algo/volume) |
