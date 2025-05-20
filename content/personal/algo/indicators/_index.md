@@ -14,4 +14,5 @@ This section contains indicators for automating `Public` trading strategies.
     {{< card link="060-machannel-mt5-ind/" title="MA Channel" image="/images/personal/algo/indicators/mach_logo.svg" subtitle="A channel around MA similar to Envelopes or Bollinger Bands" >}}    
     {{< card link="061-classicrenkoontick-mt5-ind/" title="Classic Renko Indicator" image="/images/personal/algo/indicators/renko_logo.svg" subtitle="The indicator provides real-time updates of classic Renko charts. Renko charts focus on price movement, filtering out noise and highlighting trends." >}}    
     {{< card link="062-sessionma-mt5-ind/" title="Session MA" image="/images/personal/algo/indicators/sessionma_logo.svg" subtitle="SessionMA calculates the MA only on bars that fall within a specified session time window" >}}    
+    {{< card link="066-padd-fractal-mt5-ind/" title="PADD Fractal" image="/images/personal/algo/indicators/padd_fractal_logo.svg" subtitle="PADD Fractal offers flexible fractal configuration, including the number of candles to the left and right, and the ability to filter based on sorted high/low values." >}}    
 {{< /cards >}}
