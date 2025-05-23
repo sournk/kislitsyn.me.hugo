@@ -6,11 +6,13 @@ next:
 sidebar:
   open: true
 draft: false
-publishDate: 2025-05-21
-weight: 66
+publishDate: 2025-05-06
+weight: 62
 ---
 
+
 * Coding by: Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me)
+* Published: [MQL5 Market](https://www.mql5.com/en/market/product/139095)
 * Версия: 1.01
 
 ![Layout](UM001.%20Layout.png)
