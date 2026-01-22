@@ -21,6 +21,11 @@ Here is a list of the projects I have worked on. I have put each project into di
 
 | # | Name | Type | Tags |
 |---|------|------|------|
+| 72 | **NovuPark-MT5-Bot** <br> The bot trades on the original closed strategy based on a combination of technical indicators | `Public` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) |
+| 71 | **DW-DontWorry-PIVOT-MT5-Bot** <br> Don't Worry" trading strategy uses Pivot Point and Price Actions indicator | `Private` | [`Trend`](/personal/algo/trend) [`PA/SMC`](/personal/algo/pasmc) |
+| 70 | **DS-Empirix-DennisRichards-MT5-Bot** <br> Trading strategy 'Dennis Richards' developed by *[Empirix](https://empirix.ru)* team | `Private` | [`Range`](/personal/algo/range) |
+| 69 | **DS-LW-2MA-MT5-Bot** <br> Larry Williams' trading strategy based on two MAs and designed for SP500 futures | `Private` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) |
+| 68 | **DS-KJ-MomentumKeltnerCombo-MT5-Bot** <br> Momentum & Keltner Stochastic Combo | `Private` | [`Indicator`](/personal/algo/indicator) |
 | 67 | **DW-IB-MT5-Bot** <br> The "Don't Worry" trading strategy uses a consolidation beyond the Initial Balance session and structure breakdown to enter positions | `Private` | [`Trend`](/personal/algo/trend) [`PA/SMC`](/personal/algo/pasmc) |
 | 66 | **[PADD-Fractal-MT5-Ind](/personal/algo/indicators/066-padd-fractal-mt5-ind/)** <br> Indicator offers flexible fractal configuration, including the number of candles to the left and right, and the ability to filter based on sorted high/low values. <br> Free download [MQL5 Market](https://www.mql5.com/en/market/product/139095) | `Public` | [`Trend`](/personal/algo/trend) |
 | 65 | **DS-Empirix-PA_Stoch** <br> The *PA Stoch* trading strategy by *[Empirix](https://empirix.ru)* is based on using the Stochastic oscillator as a trend indicator, along with confirming factors from Price Action | `Private` | [`Trend`](/personal/algo/trend) [`Indicator`](/personal/algo/indicator) [`Pattern`](/personal/algo/pattern) |

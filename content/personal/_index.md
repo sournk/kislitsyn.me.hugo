@@ -8,7 +8,7 @@ publishDate: 2023-08-21
 
 I’ve solid hand-on experience in developing solutions using:
 - **Python**: FastAPI, Flask, NumPy, Pandas, Jupiter, TensorFlow, Keras, Selenium
-- **MQL**: Indicators and Expert Advisers for MetaTrader platform
+- **MQL**: [Indicators](/personal/algo/indicators) and [Expert Advisers](/personal/algo/rating) for MetaTrader platform
 - **ERP Build-ins**: ABAP, X++, 1C/1C++ for SAP, MS DAX and 1C platforms
 - **Scripting**: Lua, DAX, PowerQuery and M
 - **JavaScript**: Vanilla JS and Node.JS
