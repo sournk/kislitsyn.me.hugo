@@ -1,9 +1,26 @@
 ---
-title: Enterprise Expertise
+title: Industry Experience
 toc: true
 ---
-I have 15+ years of experience driving digital transformation and enhancing supply chains for major food-FMCG companies. I'm an expert at solving complex challenges in uncertain environments.
+I have 15+ years of experience driving digital transformation and enhancing supply chains for major companies. I'm an expert at solving complex challenges in uncertain environments.
 
+I design and scale systems across manufacturing, retail, and supply chains.
+
+{{% steps %}}
+
+### **Agribusiness**  
+Field → Feed → Livestock → Raw Materials
+
+### **Manufacturing**  
+Processing → Chilled & Frozen Products → FMCG
+
+### **Retail & E-Commerce**  
+Offline → Online → Omnichannel
+
+### **Supply Chain**  
+Planning → Distribution → Delivery
+
+{{% /steps %}}
 My projects have won awards like *SAP Value Awards* <sup>[1][1]</sup> <sup>[2][2]</sup> and *Global CIO* <sup>[3][3]</sup>. I've had a few projects up for grabs at some of the main industry events like [Logimat](https://www.logimat-messe.de/en), [CeMAT](https://www.cemat-russia.ru/) and [SAP Forum](https://sap.com). They've been picked as the best in the business.
 
 I manage teams of over 50+ and lead projects with budgets in excess of $130 million. My work covers production and logistics optimisation, business process improvement and IT solutions.

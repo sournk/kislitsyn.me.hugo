@@ -21,11 +21,11 @@ markup:
 
 menu:
   main:
-    - name: Enterprise Expertise
-      pageRef: /enterprise
+    - name: Algorithmic Trading
+      pageRef: /personal/algo
       weight: 1
-    - name: Freelance Projects
-      pageRef: /personal
+    - name: Industry Experience
+      pageRef: /enterprise
       weight: 2
     - name: LinkedIn
       weight: 3

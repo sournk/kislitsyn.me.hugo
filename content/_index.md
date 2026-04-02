@@ -43,7 +43,7 @@ span.slide::after {
   width: 2px;
   height: 1em; /* Высота курсора */
   font-size: 1.2em; /* Размер курсора */
-  background-color: #1e90ff; /* Цвет курсора */
+  background-color: currentColor; /* Цвет курсора совпадает с цветом текста */
   animation: blink 0.8s step-end infinite; /* Анимация мерцания */
   transform: translateY(-10%) translateX(5px); /* Слегка приподнять курсор и отодвинуть на 5px вправо */
 }
@@ -55,16 +55,18 @@ span.slide::after {
 }
 </style>
 
-![](/images/main.svg)
+![](/images/main-nobg2.png)
 
-<h4> I turn complex ideas into simple solutions for: </h4>
+<!-- <h4> I turn complex ideas into simple solutions for: </h4> -->
+<!-- <h4>Complex problems. Simple solutions. Applied to:</h4> -->
+<h4>I transform complex ideas into clear solutions for:</h4>
 <div class="slide-container">
-  <span class="slide">— Food-FMCG and Production Sites </span>
-  <span class="slide">— Transport and Warehouse Logistics </span>
-  <span class="slide">— Retail and E-Commerce </span>
-  <span class="slide">— In-house and Outsource IT Teams </span>
-  <span class="slide">— Software development </span>
-  <span class="slide">— Algorithmic trading </span>
+  <span class="slide">— Algorithmic Trading </span>
+  <span class="slide">— Food & FMCG Production</span>
+  <span class="slide">— Transport & Warehouse Logistics</span>
+  <span class="slide">— Retail & E-Commerce</span>
+  <span class="slide">— In-house & Outsourced IT Teams</span>
+  <span class="slide">— Software Engineering</span>
 </div>
 
 
@@ -96,10 +98,12 @@ span.slide::after {
 
 ## Explore Details
 
-{{< cards cols="1">}}
-  {{< card link="enterprise" title="Enterprise Expertise" icon="user-group" >}}
-  {{< card link="personal" title="Freelance Projects" icon="user-circle" >}}
+{{< cards cols="2">}}
+  {{< card link="personal" title="Algorithmic Trading" subtitle="Bot Development | Strategy Testing & Optimization | Portfolio Execution" image="/images/card-algo2.jpg" icon="trending-up" >}}
+  {{< card link="enterprise" title="Industry Experience" subtitle="Agribusiness | Food & FMCG | Retail & E-Commerce | Supply Chain" image="/images/card-enterprise4.jpg" icon="office-building" >}}
 {{< /cards >}}
+
+
 
 
 <script>
@@ -108,6 +112,10 @@ document.addEventListener('DOMContentLoaded', function() {
   let currentIndex = 0;
   let typingSpeed = 50; // Скорость появления букв (в миллисекундах)
   let displayInterval = 3000; // Интервал между слайдами (в миллисекундах)
+
+  // Цвета градиента из main-nobg2.png
+  const slideColors = ['#c026a8', '#5533cc', '#2288f0', '#18d4c0', '#40c848', '#f0a818'];
+  slides.forEach((slide, i) => { slide.style.color = slideColors[i % slideColors.length]; });
 
   // Создаем контейнер с фиксированной высотой
   const slideContainer = document.querySelector('.slide-container');
