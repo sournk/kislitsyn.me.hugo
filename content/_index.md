@@ -1,5 +1,5 @@
 ---
-title: Hey, I'm Denis Kislitsyn
+title: Hey, I'm Denis
 toc: false
 ---
 
