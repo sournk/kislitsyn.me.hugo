@@ -22,7 +22,7 @@ markup:
 menu:
   main:
     - name: Algorithmic Trading
-      pageRef: /personal/algo
+      pageRef: /algo
       weight: 1
     - name: Industry Experience
       pageRef: /enterprise
