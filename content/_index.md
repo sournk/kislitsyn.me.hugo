@@ -100,7 +100,7 @@ span.slide::after {
 
 {{< cards cols="2">}}
   {{< card link="personal" title="Algorithmic Trading" subtitle="Bot Development | Strategy Testing & Optimization | Portfolio Execution <br>100+ projects" image="/images/card-algo2.jpg" icon="trending-up" >}}
-  {{< card link="enterprise" title="Industry Experience" subtitle="Agribusiness | Food & FMCG | Retail & E-Commerce | Supply Chain <br> 15+ years" image="/images/card-enterprise4.jpg" icon="office-building" >}}
+  {{< card link="enterprise" title="Industry Experience" subtitle="Food & FMCG | Agribusiness | Retail & E-Commerce | Supply Chain <br> 15+ years" image="/images/card-enterprise4.jpg" icon="office-building" >}}
 {{< /cards >}}
 
 
