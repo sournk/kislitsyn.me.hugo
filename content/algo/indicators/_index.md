@@ -9,6 +9,8 @@ weight: 3
 This section contains indicators for automating `Public` trading strategies.
 
 {{< cards >}}
+    {{< card link="118-sessionrange-mt5-ind/" title="Session Range" image="/images/personal/algo/indicators/sessionrange_logo.svg" subtitle="High/Low/Middle channel based on a given trading session" >}}
+    {{< card link="117-atrrange-mt5-ind/" title="ATR Range" image="/images/personal/algo/indicators/atrrange_logo.svg" subtitle="ATR-based volatility channels with three multiplier levels" >}}
     {{< card link="018-pattern34/" title="Pattern 34" image="/images/personal/algo/indicators/pattern34_logo.svg" subtitle="Customizable candlestick pattern indicator" >}}
     {{< card link="059-chaikinmoneyflow-mt5-ind/" title="Chaikin Money Flow" image="/images/personal/algo/indicators/cmf_logo.svg" subtitle="CMF is created by Marc Chaikin to visualise the accumulation and distribution of a stock" >}}  
     {{< card link="060-machannel-mt5-ind/" title="MA Channel" image="/images/personal/algo/indicators/mach_logo.svg" subtitle="A channel around MA similar to Envelopes or Bollinger Bands" >}}    

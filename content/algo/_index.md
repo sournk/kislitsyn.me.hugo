@@ -193,17 +193,3 @@ Utilities, GUI assistants, and risk management tools for traders.
 | 7 | **Stat Script** <br> The script generates a report on the history of EA trades, filtering them by comment part or magic number | `Private` |
 | 8 | **AutoLocker** <br> The bot locks positions when drawdown is reached | `Public` |
 | 9 | **STP Tool** <br> The bot places different orders based on manually drawn Fibonacci-Object | `Private` |
-
-### Indicators
-
-Public open-source indicators for MetaTrader 5 — see the full [Indicators](/algo/indicators/) section.
-
-| # | Name |
-|---|------|
-| 1 | **ATRRange-MT5-Ind** <br> ATR Range: draws three volatility channels around price using ATR with configurable multipliers — [MQL5 Market](https://www.mql5.com/en/market/product/162717) |
-| 2 | **SessionRange-MT5-Ind** <br> Custom Session Range: draws High/Low/Middle channel for a configurable trading session with Previous Day and Current Day modes — [MQL5 Market](https://www.mql5.com/en/market/product/162711) |
-| 3 | **[PADD-Fractal-MT5-Ind](/algo/indicators/066-padd-fractal-mt5-ind/)** <br> Flexible fractal configuration with sorted high/low filtering — [MQL5 Market](https://www.mql5.com/en/market/product/139095) |
-| 4 | **[SessionMA-MT5-Ind](/algo/indicators/062-sessionma-mt5-ind/)** <br> MA calculated only within a specified session time window — [MQL5 Market](https://www.mql5.com/ru/market/product/138136) |
-| 5 | **[ClassicRenkoOnTick-MT5-Ind](/algo/indicators/061-classicrenkoontick-mt5-ind/)** <br> Real-time classic Renko charts focused on price movement — [MQL5 Market](https://www.mql5.com/ru/market/product/137132) |
-| 6 | **[MAChannel-MT5-Ind](/algo/indicators/060-machannel-mt5-ind/)** <br> A channel around MA with three buffers: MA, Top, Bottom — [MQL5 Market](https://www.mql5.com/en/market/product/135784) |
-| 7 | **[ChaikinMoneyFlow-MT5-Ind](/algo/indicators/059-chaikinmoneyflow-mt5-ind/)** <br> CMF indicator to monitor accumulation and distribution — [MQL5 Market](https://www.mql5.com/ru/market/product/135679) |
