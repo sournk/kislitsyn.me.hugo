@@ -44,7 +44,7 @@ Trend-following and breakout strategies based on technical indicators: MA, ADX, 
 
 | # | Name | Type |
 |---|------|------|
-| 1 | **NovuPark-MT5-Bot** <br> The bot trades on the original closed strategy based on a combination of technical indicators | `Public` |
+| 1 | **[NovuPark-MT5-Bot](/algo/rating/073-novupark)** <br> The bot trades on the original closed strategy based on a combination of technical indicators based on Schaff Trend Cycle | `Public` |
 | 2 | **DS-LW-2MA-MT5-Bot** <br> Larry Williams' trading strategy based on two MAs and designed for SP500 futures | `Private` |
 | 3 | **DS-KJ-MomentumKeltnerCombo-MT5-Bot** <br> Momentum & Keltner Stochastic Combo | `Private` |
 | 4 | **DS-Empirix-Squeeze** <br> The *Squeeze* strategy by *[Empirix](https://empirix.ru)* analyzes MA channel compressions and expansions | `Private` |
